@@ -30,10 +30,9 @@
   "scripts": {
     "test": "grunt test"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "peerDependencies": {
-    "grunt": "0.4.x"
+    "grunt": ">=0.4.0"
   },
   "devDependencies": {
     "grunt": "0.4.x",
